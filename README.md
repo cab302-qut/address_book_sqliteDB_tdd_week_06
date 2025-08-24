@@ -10,7 +10,7 @@ AIM: Learn the steps required to exercise TDD as the application development pro
 
 ## Activity 1 - Preparation - Setting up the Project
 
-Clone the repository and switch to the "sqlite" branch. You will need to install the sqlite JDBC driver as well as JUnit 5 (JUnit 5 should already be installed - Check pom file).
+Clone the repository. You will need to install the sqlite JDBC driver. You may need to install JUnit 5, however, JUnit 5 should already be installed. Check the pom file if there are any issues - ask your tutor for help.
 
 ![Clone repo instructions command](/images/clonerepo8.png)
 
