@@ -1,4 +1,4 @@
-[<h1 align="center">Week 6 - Unit Testing & Test Driven Development (TDD)</h1>
+<h1 align="center">Week 6 - Unit Testing & Test Driven Development (TDD)</h1>
 
 <h1 align="center">Address Book Application</h1>
 
